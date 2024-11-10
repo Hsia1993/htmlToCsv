@@ -2,6 +2,9 @@
 
 A lightweight Chrome extension that adds an export button to HTML tables on web pages, making it easy to download table data.
 
+## Screenshot
+![Table Export Button Demo](demo.png)
+
 ## Features
 
 - Automatically detects tables on web pages
