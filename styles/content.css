@@ -1,0 +1,22 @@
+.export-wrapper {
+  text-align: right;
+  margin-bottom: 5px;
+  position: absolute;
+  top: 8px;
+  right: 8px;
+  display: none;
+}
+
+.export-csv-btn {
+  padding: 5px 10px;
+  background-color: #007bff;
+  color: white;
+  border: none;
+  cursor: pointer;
+  border-radius: 3px;
+  font-size: 12px;
+}
+
+.export-csv-btn:hover {
+  background-color: #0056b3;
+}
